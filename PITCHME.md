@@ -97,7 +97,7 @@
 ---
 ## my all time favorite clips
 ---
-* shrounds clutch on overpass vs navi
+* n0things clutch on overpass vs navi
 * happys deagle ace on inferno
 * xyp9s 1hp 1v3 clutch
 ---
