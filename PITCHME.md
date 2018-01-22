@@ -97,10 +97,10 @@
 ---
 ## my all time favorite clips
 ---
-* n0things clutch on overpass
-* happys deagle ace on inferno
-* xyp9s 1hp 1v3 clutch on overpass
-* snaxs 1v4 pistol clutch on cobblestone
+* [happys deagle ace on inferno](https://www.youtube.com/watch?v=dg6TQy6pGfs)
+* [xyp9s 1hp 1v3 clutch on overpass](https://www.youtube.com/watch?v=W3-NDAmryUc)
+* [snaxs 1v4 pistol clutch on cobblestone](https://www.youtube.com/watch?v=p90AdQBTub4)
+* [n0things clutch on overpass](https://www.youtube.com/watch?v=sm-r2VVVc38)
 ---
 thank you
 ---
