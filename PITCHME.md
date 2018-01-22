@@ -100,7 +100,7 @@
 * n0things clutch on overpass
 * happys deagle ace on inferno
 * xyp9s 1hp 1v3 clutch on overpass
-* snaxs 1v4 pistol clutch on cobble
+* snaxs 1v4 pistol clutch on cobblestone
 ---
 thank you
 ---
