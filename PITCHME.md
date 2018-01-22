@@ -58,13 +58,13 @@
 ---
 * organization in leagues; eg. esl
 * sponsered events; eg. iem
-* 1vs1 &  team vs team
+* 1 vs 1 & team vs team
 ---
 ## example: astralis
 ---
-* 5 players; coach; sport psychologist
 * professional danish team
 * player-owned organization
+* 5 players; coach; sport psychologist; manager
 ---
 ## the future and the beauty of esports
 ---
