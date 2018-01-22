@@ -60,7 +60,7 @@
 * sponsered events; eg. iem
 * 1vs1 &  team vs team
 ---
-## astralis
+## example: astralis
 ---
 * 5 players; coach; sport psychologist
 * professional danish team
