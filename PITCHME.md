@@ -112,7 +112,7 @@ thank you
 * maximilian
 * brown bag session 'esports'
 * 2018-01-26
-* github.com/maximiliankolb/bbs-esports
+* [github.com/maximiliankolb/bbs-esports](https://github.com/maximiliankolb/bbs-esports)
 * bsd license
 ---
 ## q&a
