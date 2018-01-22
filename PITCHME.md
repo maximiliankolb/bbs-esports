@@ -52,7 +52,7 @@
 * building your economy
 * 30 sec timeouts
 ---
-* easy to learn, difficult to master
+### easy to learn, difficult to master
 ---
 ## structure of esport
 ---
