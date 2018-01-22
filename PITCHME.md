@@ -43,13 +43,14 @@
 ## example: counter-strike global offensive
 ---
 * round-based fps
-* terrorists vs counterterrorists
+* terrorists vs counter-terrorists
 * seven active maps with fixed starting areas
-* building you economy
-* 30 sec timeouts
 ---
 * t objectives: destroy target by planting bomb and defending against attackers
 * ct objectives: protect targets from being blown up; survive
+---
+* building you economy
+* 30 sec timeouts
 ---
 * easy to learn, difficult to master
 ---
