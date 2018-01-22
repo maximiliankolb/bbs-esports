@@ -42,6 +42,7 @@
 ---
 ## example: counter-strike global offensive
 ---
+* 10 players on one server
 * round-based fps
 * terrorists vs counter-terrorists
 * seven active maps with fixed starting areas
