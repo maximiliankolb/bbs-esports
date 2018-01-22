@@ -46,8 +46,8 @@
 * terrorists vs counter-terrorists
 * seven active maps with fixed starting areas
 ---
-* t objectives: destroy target by planting bomb and defending against attackers
-* ct objectives: protect targets from being blown up; survive
+* ts objectives: destroy target by planting bomb and defending against attackers
+* cts objectives: protect targets from being blown up; survive
 ---
 * building your economy
 * 30 sec timeouts
@@ -85,12 +85,12 @@
 ---
 * started playing as a hobby
 * joined amateur clan
-* played bad and inconsistent
+* played badly and inconsistently
 ---
 * changed to become a spectator
-* visited esl one cologne july 2017
+* visited esl one cologne in july 2017
 ---
-* only play on my brothers computer
+* nowadays only play on my brothers computer
 * regularly watch csgo online
 * more interessted in meta game then playing myself
 ---
@@ -98,6 +98,7 @@
 ---
 * shrounds clutch on overpass vs navi
 * happys deagle ace on inferno
+* xyp9s 1hp 1v3 clutch
 ---
 thank you
 ---
