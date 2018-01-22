@@ -5,7 +5,7 @@
 ---
 # esports
 36 slides in 10 minutes  
-\- or as christian would say 'no pressure' -
+or as christian would say 'no pressure'
 ---
 ## agenda
 * introduction
