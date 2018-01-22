@@ -49,7 +49,7 @@
 * t objectives: destroy target by planting bomb and defending against attackers
 * ct objectives: protect targets from being blown up; survive
 ---
-* building you economy
+* building your economy
 * 30 sec timeouts
 ---
 * easy to learn, difficult to master
