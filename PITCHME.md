@@ -45,7 +45,7 @@ or as christian would say 'no pressure'
 * 10 players on one server
 * round-based fps
 * terrorists vs counter-terrorists
-* seven active maps with fixed starting areas
+* seven active maps with fixed starting areas (spawn-based roles)
 ---
 * ts objectives: destroy target by planting bomb and defending against attackers
 * cts objectives: protect targets from being blown up; survive
