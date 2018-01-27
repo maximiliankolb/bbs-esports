@@ -43,7 +43,7 @@ or as christian would say 'no pressure'
 ## example: counter-strike global offensive
 ---
 * 10 players on one server
-* round-based fps
+* round-based fps; crosshair placement
 * terrorists vs counter-terrorists
 * seven active maps with fixed starting areas (spawn-based roles)
 ---
