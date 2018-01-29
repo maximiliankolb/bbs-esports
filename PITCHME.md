@@ -76,17 +76,14 @@ or as christian would say 'no pressure'
 ---
 ## the future and the beauty of esports
 ---
-* growth outside its traditional market
-* mayor traditional sport teams invest in esports in gain popularity in the esport base
-* interessting area for digital and traditional companies like intel or audi
-* highly tactical approach nowadays, less pure skill
----
-* more microtransactions
-* more gambling (eg. on skins)
-* general projection: growth will continue
+* growth inside and outside its traditional market
 * lasting professionalization
+* mayor traditional teams investing in esports
+* interessting area for digital and traditional companies like intel or audi
 ---
-* similarity to soccer
+* ability to compete on different levels
+* more gambling (eg. on skins)
+* highly tactical approach nowadays, less pure skill
 * gaming equipment
 ---
 ## my personal experience
