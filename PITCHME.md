@@ -50,6 +50,7 @@ or as christian would say 'no pressure'
 * ts objectives: destroy target by planting bomb (at the a or b spot) and defending against attackers
 * cts objectives: protect targets from being blown up; survive
 ---
+* making money from kills, plants, and defuses
 * building your economy
 * 30 sec timeouts
 ---
