@@ -58,9 +58,10 @@ or as christian would say 'no pressure'
 ---
 ## structure of esport
 ---
-* no organization like fifa
+* no global organization like fifa
 * organization in leagues; eg. esl
 * sponsered events; eg. iem
+* invite-only tournaments
 * 1 vs 1 & team vs team
 ---
 * male dominated games
