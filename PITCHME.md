@@ -4,7 +4,7 @@
 ### by maximilian
 ---
 # esports
-36 slides in 10 minutes  
+37 slides in 10 minutes  
 or as christian would say 'no pressure'
 ---
 ## agenda
@@ -57,6 +57,7 @@ or as christian would say 'no pressure'
 ---
 ## structure of esport
 ---
+* no organization like fifa
 * organization in leagues; eg. esl
 * sponsered events; eg. iem
 * 1 vs 1 & team vs team
