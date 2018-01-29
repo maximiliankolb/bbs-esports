@@ -47,7 +47,7 @@ or as christian would say 'no pressure'
 * terrorists vs counter-terrorists
 * seven active maps with fixed starting areas (spawn-based roles)
 ---
-* ts objectives: destroy target by planting bomb and defending against attackers
+* ts objectives: destroy target by planting bomb (at the a or b spot) and defending against attackers
 * cts objectives: protect targets from being blown up; survive
 ---
 * building your economy
@@ -60,6 +60,11 @@ or as christian would say 'no pressure'
 * organization in leagues; eg. esl
 * sponsered events; eg. iem
 * 1 vs 1 & team vs team
+---
+* male dominated games
+* mostly fans of the game
+* mostly europeen players
+* lately some successful NA players
 ---
 ## example: astralis
 ---
