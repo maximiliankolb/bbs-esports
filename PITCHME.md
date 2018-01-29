@@ -51,7 +51,7 @@ or as christian would say 'no pressure'
 * cts objectives: protect targets from being blown up; survive
 ---
 * making money from kills, plants, and defuses
-* building your economy
+* building up your economy
 * 30 sec timeouts
 ---
 ### easy to learn, difficult to master
