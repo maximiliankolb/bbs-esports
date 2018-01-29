@@ -64,10 +64,9 @@ or as christian would say 'no pressure'
 * invite-only tournaments
 * 1 vs 1 & team vs team
 ---
-* male dominated games
-* mostly fans of the game
-* mostly europeen players
-* lately some successful NA players
+* mostly male europeen players
+* mostly fans of the game, not the team
+* lately some successful NA players/ teams
 ---
 ## example: astralis
 ---
