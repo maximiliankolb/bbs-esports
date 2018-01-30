@@ -34,11 +34,11 @@ or as christian would say 'no pressure'
 * compete
 ---
 * nicknames
-* sponsors, merch, and prize pool
-* horrible graphics
+* sponsors, merch, and prize pools
+* horrible graphics by choice
 * fantastic balance
 ---
-* active professional tournaments in fifa, dota2, lol, sc2, overwatch, and csgo
+* active professional tournaments in fifa, dota2, lol, sc2, overwatch, rocket league, and csgo
 ---
 ## example: counter-strike global offensive
 ---
@@ -59,7 +59,8 @@ or as christian would say 'no pressure'
 ## structure of esport
 ---
 * no global organization like fifa
-* leagues & sponsered events
+* leagues & sponsered events (eg. esl pro league and iem)
+* independent platforms (eg. faceit)
 * invite-only tournaments
 * 1 vs 1 & team vs team
 ---
@@ -79,12 +80,16 @@ or as christian would say 'no pressure'
 * growth inside and outside its traditional market
 * lasting professionalization
 * mayor traditional teams investing in esports
-* interessting area for digital and traditional companies like intel or audi
+* interesting area for digital and traditional companies like intel or audi
+---
+* more gambling (eg. on skins)
+* gaming equipment
+---
+* amazon bought twitch for $1bn
+* speculation: microsoft buying valve/ ea
 ---
 * ability to compete on different levels
-* more gambling (eg. on skins)
 * highly tactical approach nowadays, less pure skill
-* gaming equipment
 ---
 ## my personal experience
 ---
@@ -112,6 +117,7 @@ or as christian would say 'no pressure'
 * https://www.biu-online.de/blog/2018/01/22/esports-wird-zum-breitensport/
 * https://www.heise.de/newsticker/meldung/BIU-Jeder-zehnte-Gamer-in-Deutschland-betreibt-E-Sport-3948061.html
 * https://www.golem.de/news/gaming-ueber-3-millionen-deutsche-spieler-machen-regelmaessig-e-sport-1801-132296.html 
+* https://www.golem.de/news/spielebranche-geruechte-und-eine-tatsaechliche-akquisition-durch-microsoft-1801-132471.html
 ---
 * maximilian
 * brown bag session 'esports'
