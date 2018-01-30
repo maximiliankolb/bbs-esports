@@ -60,10 +60,10 @@ or as christian would say 'no pressure'
 ---
 * no global organization like fifa
 * leagues & sponsered events
-* majors vs minors
 * invite-only tournaments
 * 1 vs 1 & team vs team
 ---
+* majors vs minors
 * mostly male europeen players
 * mostly fans of the game, not the team
 * lately some successful NA players/ teams
