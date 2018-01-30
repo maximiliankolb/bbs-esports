@@ -59,10 +59,10 @@ or as christian would say 'no pressure'
 ## structure of esport
 ---
 * no global organization like fifa
-* leagues & sponsered events (eg. esl pro league and iem)
-* independent platforms (eg. faceit)
+* national and international leagues
+* sponsered events
+* independent platforms
 * invite-only tournaments
-* 1 vs 1 & team vs team
 ---
 * majors vs minors
 * mostly male europeen players
