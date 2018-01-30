@@ -118,6 +118,7 @@ or as christian would say 'no pressure'
 * https://www.heise.de/newsticker/meldung/BIU-Jeder-zehnte-Gamer-in-Deutschland-betreibt-E-Sport-3948061.html
 * https://www.golem.de/news/gaming-ueber-3-millionen-deutsche-spieler-machen-regelmaessig-e-sport-1801-132296.html 
 * https://www.golem.de/news/spielebranche-geruechte-und-eine-tatsaechliche-akquisition-durch-microsoft-1801-132471.html
+* https://esportsranks.com/audi-astralis/
 ---
 * maximilian
 * brown bag session 'esports'
