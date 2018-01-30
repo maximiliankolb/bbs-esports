@@ -38,7 +38,7 @@ or as christian would say 'no pressure'
 * horrible graphics
 * fantastic balance
 ---
-* active professional tournaments in fifa, dota2, lol, sc, and csgo
+* active professional tournaments in fifa, dota2, lol, sc2, overwatch, and csgo
 ---
 ## example: counter-strike global offensive
 ---
