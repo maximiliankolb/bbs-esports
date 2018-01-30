@@ -42,14 +42,14 @@ or as christian would say 'no pressure'
 ---
 ## example: counter-strike global offensive
 ---
-* 10 players on one server
+* 5 ts vs 5 cts
 * round-based fps; crosshair placement
-* terrorists vs counter-terrorists
 * seven active maps with fixed starting areas (spawn-based roles)
 ---
 * ts objectives: destroy target by planting bomb (at the a or b spot) and defending against attackers
 * cts objectives: protect targets from being blown up; survive
 ---
+* buy armor, weapon, and utilities
 * making money from kills, plants, and defuses
 * building up your economy
 * 30 sec timeouts
