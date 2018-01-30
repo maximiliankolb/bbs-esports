@@ -106,7 +106,7 @@ or as christian would say 'no pressure'
 * [snaxs 1v4 pistol clutch on cobblestone](https://www.youtube.com/watch?v=p90AdQBTub4)
 * [n0things clutch on overpass](https://www.youtube.com/watch?v=sm-r2VVVc38)
 ---
-thank you
+## q&a
 ---
 ### sources
 * https://www.biu-online.de/blog/2018/01/22/esports-wird-zum-breitensport/
@@ -119,5 +119,5 @@ thank you
 * [github.com/maximiliankolb/bbs-esports](https://github.com/maximiliankolb/bbs-esports)
 * bsd license
 ---
-## q&a
+thank you
 ---
