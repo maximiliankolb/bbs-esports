@@ -59,8 +59,8 @@ or as christian would say 'no pressure'
 ## structure of esport
 ---
 * no global organization like fifa
-* organization in leagues; eg. esl
-* sponsered events; eg. iem
+* organization in leagues; eg. esl pro league
+* sponsered events; eg. iem (run by esl)
 * invite-only tournaments
 * 1 vs 1 & team vs team
 ---
