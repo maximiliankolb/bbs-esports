@@ -4,7 +4,7 @@
 ### by maximilian
 ---
 # esports
-36 slides in 10 minutes  
+37 slides in 10 minutes  
 or as christian would say 'no pressure'
 ---
 ## agenda
@@ -127,4 +127,3 @@ or as christian would say 'no pressure'
 * bsd license
 ---
 thank you
----
