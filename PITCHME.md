@@ -119,6 +119,7 @@ or as christian would say 'no pressure'
 * https://www.golem.de/news/gaming-ueber-3-millionen-deutsche-spieler-machen-regelmaessig-e-sport-1801-132296.html 
 * https://www.golem.de/news/spielebranche-geruechte-und-eine-tatsaechliche-akquisition-durch-microsoft-1801-132471.html
 * https://esportsranks.com/audi-astralis/
+* https://www.sport1.de/esports/fifa/2018/1/1-fc-koeln-und-sk-gaming-geben-kooperation-bekannt
 ---
 * maximilian
 * brown bag session 'esports'
