@@ -47,7 +47,7 @@ or as christian would say 'no pressure'
 * seven active maps with fixed starting areas (spawn-based roles)
 ---
 * ts objectives: destroy target by planting bomb (at the a or b spot) and defending against attackers
-* cts objectives: protect targets from being blown up; survive
+* cts objectives: protect targets from being blown up; defuse; survive
 ---
 * buy armor, weapon, and utilities
 * making money from kills, plants, and defuses
@@ -66,8 +66,8 @@ or as christian would say 'no pressure'
 ---
 * majors vs minors
 * mostly male europeen players
-* mostly fans of the game, not the team
 * lately some successful NA players/ teams
+* mostly fans of the game, not the team
 ---
 ## example: astralis
 ---
