@@ -102,7 +102,7 @@ or as christian would say 'no pressure'
 ---
 * nowadays only play on my brothers computer
 * regularly watch csgo online
-* more interessted in meta game then playing myself
+* more interested in meta game then playing myself
 ---
 ## my all time favorite clips
 ---
