@@ -60,7 +60,7 @@ or as christian would say 'no pressure'
 ---
 * no global organization like fifa
 * national and international leagues
-* sponsered events
+* sponsored events
 * independent platforms
 * invite-only tournaments
 ---
