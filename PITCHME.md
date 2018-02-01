@@ -65,7 +65,7 @@ or as christian would say 'no pressure'
 * invite-only tournaments
 ---
 * majors vs minors
-* mostly male europeen players
+* mostly male european players
 * lately some successful NA players/ teams
 * mostly fans of the game, not the team
 ---
