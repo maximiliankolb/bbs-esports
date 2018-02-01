@@ -31,7 +31,7 @@ or as christian would say 'no pressure'
 * play
 * watch
 * stream
-* **compete**
+* compete
 ---
 * nicknames
 * sponsors, merch, and prize pools
