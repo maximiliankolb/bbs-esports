@@ -1,5 +1,5 @@
 # esports
-###  brown bag session
+###  brownbag session
 ### 2018-02-02
 ### by maximilian
 ---
@@ -122,7 +122,7 @@ or as christian would say 'no pressure'
 * https://www.sport1.de/esports/fifa/2018/1/1-fc-koeln-und-sk-gaming-geben-kooperation-bekannt
 ---
 * maximilian
-* brown bag session 'esports'
+* brownbag session 'esports'
 * 2018-02-02
 * [github.com/maximiliankolb/bbs-esports](https://github.com/maximiliankolb/bbs-esports)
 * bsd license
