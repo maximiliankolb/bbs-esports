@@ -1,11 +1,7 @@
 # esports
-###  brown bag session
+### brown bag session
 ### 2021-02-05
 ### by maximilian
----
-# esports
-37 slides in 10 minutes
-or as christian would say 'no pressure'
 ---
 ## agenda
 * introduction
@@ -47,7 +43,7 @@ or as christian would say 'no pressure'
 * ts objectives: destroy target by planting bomb (at the a or b spot) and defending against attackers
 * cts objectives: protect targets from being blown up; defuse; survive
 ---
-* buy armor, weapons, and utilities
+* buy armor, weapons, and utility
 * making money from round wins, kills, plants, and defuses
 * building up your economy
 * 30 sec timeouts
@@ -56,7 +52,7 @@ or as christian would say 'no pressure'
 ---
 ## structure of esport
 ---
-* no global organization like fifa
+* no global organization like in soccer
 * national and international leagues
 * sponsored events
 * independent platforms
@@ -72,6 +68,7 @@ or as christian would say 'no pressure'
 * professional danish team
 * player-owned organization
 * 5 players; coach; sport psychologist; manager
+* less brawly, more tactics and preparation
 ---
 ## the future and the beauty of esports
 ---
@@ -101,19 +98,10 @@ or as christian would say 'no pressure'
 ## my all time favorite clips
 ---
 * [astralis map pick vs team liquid @ quarter finals berlin major 2019](https://www.youtube.com/watch?v=iKQ2vJKs3Vs)
-* [happys deagle ace on inferno](https://www.youtube.com/watch?v=dg6TQy6pGfs)
 * [xyp9s 1hp 1v3 clutch on overpass](https://www.youtube.com/watch?v=W3-NDAmryUc)
-* [snaxs 1v4 pistol clutch on cobblestone](https://www.youtube.com/watch?v=p90AdQBTub4)
 * [n0things clutch on overpass](https://www.youtube.com/watch?v=sm-r2VVVc38)
 ---
 ## q&a
----
-### sources
-* https://www.biu-online.de/blog/2018/01/22/esports-wird-zum-breitensport/
-* https://www.heise.de/newsticker/meldung/BIU-Jeder-zehnte-Gamer-in-Deutschland-betreibt-E-Sport-3948061.html
-* https://www.golem.de/news/gaming-ueber-3-millionen-deutsche-spieler-machen-regelmaessig-e-sport-1801-132296.html
-* https://esportsranks.com/audi-astralis/
-* https://www.sport1.de/esports/fifa/2018/1/1-fc-koeln-und-sk-gaming-geben-kooperation-bekannt
 ---
 * maximilian
 * brown bag session 'esports'
