@@ -1,11 +1,7 @@
 # esports
-###  brownbag session
-### 2018-02-02
+### brown bag session
+### 2021-02-05
 ### by maximilian
----
-# esports
-37 slides in 10 minutes  
-or as christian would say 'no pressure'
 ---
 ## agenda
 * introduction
@@ -21,7 +17,7 @@ or as christian would say 'no pressure'
 ---
 ## introduction
 ---
-### esport is competitive gaming.
+### esport is competitive gaming
 ---
 * competing with the same preconditions
 * team sport with different roles
@@ -38,8 +34,6 @@ or as christian would say 'no pressure'
 * horrible graphics by choice
 * fantastic balance
 ---
-* active professional tournaments in fifa, dota2, lol, sc2, overwatch, rocket league, and csgo
----
 ## example: counter-strike global offensive
 ---
 * 5 ts vs 5 cts
@@ -49,16 +43,16 @@ or as christian would say 'no pressure'
 * ts objectives: destroy target by planting bomb (at the a or b spot) and defending against attackers
 * cts objectives: protect targets from being blown up; defuse; survive
 ---
-* buy armor, weapons, and utilities
+* buy armor, weapons, and utility
 * making money from round wins, kills, plants, and defuses
 * building up your economy
 * 30 sec timeouts
 ---
-### easy to learn, difficult to master.
+### easy to learn, difficult to master
 ---
 ## structure of esport
 ---
-* no global organization like fifa
+* no global organization like in soccer
 * national and international leagues
 * sponsored events
 * independent platforms
@@ -66,7 +60,7 @@ or as christian would say 'no pressure'
 ---
 * majors vs minors
 * mostly male european players
-* lately some successful NA players/ teams
+* EU > NA
 * mostly fans of the game, not the team
 ---
 ## example: astralis
@@ -74,6 +68,7 @@ or as christian would say 'no pressure'
 * professional danish team
 * player-owned organization
 * 5 players; coach; sport psychologist; manager
+* less brawly, more tactics and preparation
 ---
 ## the future and the beauty of esports
 ---
@@ -82,11 +77,7 @@ or as christian would say 'no pressure'
 * mayor traditional teams investing in esports
 * interesting area for digital and traditional companies like intel or audi
 ---
-* more gambling (eg. on skins)
-* gaming equipment
----
 * amazon bought twitch for $1bn
-* speculation: microsoft buying valve/ ea
 ---
 * ability to compete on different levels
 * highly tactical approach nowadays, less pure skill
@@ -100,30 +91,21 @@ or as christian would say 'no pressure'
 * changed to become a spectator
 * visited esl one cologne in july 2017
 ---
-* nowadays only play on my brothers computer
+* nowadays only play with my brother
 * regularly watch csgo online
 * more interested in meta game then playing myself
 ---
 ## my all time favorite clips
 ---
-* [happys deagle ace on inferno](https://www.youtube.com/watch?v=dg6TQy6pGfs)
+* [astralis map pick vs team liquid @ quarter finals berlin major 2019](https://www.youtube.com/watch?v=iKQ2vJKs3Vs)
 * [xyp9s 1hp 1v3 clutch on overpass](https://www.youtube.com/watch?v=W3-NDAmryUc)
-* [snaxs 1v4 pistol clutch on cobblestone](https://www.youtube.com/watch?v=p90AdQBTub4)
 * [n0things clutch on overpass](https://www.youtube.com/watch?v=sm-r2VVVc38)
 ---
 ## q&a
 ---
-### sources
-* https://www.biu-online.de/blog/2018/01/22/esports-wird-zum-breitensport/
-* https://www.heise.de/newsticker/meldung/BIU-Jeder-zehnte-Gamer-in-Deutschland-betreibt-E-Sport-3948061.html
-* https://www.golem.de/news/gaming-ueber-3-millionen-deutsche-spieler-machen-regelmaessig-e-sport-1801-132296.html 
-* https://www.golem.de/news/spielebranche-geruechte-und-eine-tatsaechliche-akquisition-durch-microsoft-1801-132471.html
-* https://esportsranks.com/audi-astralis/
-* https://www.sport1.de/esports/fifa/2018/1/1-fc-koeln-und-sk-gaming-geben-kooperation-bekannt
----
 * maximilian
-* brownbag session 'esports'
-* 2018-02-02
+* brown bag session 'esports'
+* 2021-02-05
 * [github.com/maximiliankolb/bbs-esports](https://github.com/maximiliankolb/bbs-esports)
 * bsd license
 ---
